@@ -1,0 +1,97 @@
+{
+  "format": "svg_sprite_symbols",
+  "viewBox": "0 0 24 24",
+  "order": [
+    "top_button",
+    "tab_feed",
+    "tab_replies",
+    "tab_music",
+    "tab_likes",
+    "meta_time",
+    "meta_date",
+    "meta_place",
+    "meta_look",
+    "stat_love",
+    "stat_heat",
+    "pinned",
+    "sync_delay",
+    "sync_reset",
+    "sync_rush",
+    "search",
+    "clear",
+    "player_prev",
+    "player_play",
+    "player_pause",
+    "player_next",
+    "track_playing"
+  ],
+  "usage_example": "<svg viewBox=\"0 0 24 24\"><use href=\"mikey_ui_sprite.svg#tab_music\"></use></svg>",
+  "icons": {
+    "top_button": {
+      "id": "top_button"
+    },
+    "tab_feed": {
+      "id": "tab_feed"
+    },
+    "tab_replies": {
+      "id": "tab_replies"
+    },
+    "tab_music": {
+      "id": "tab_music"
+    },
+    "tab_likes": {
+      "id": "tab_likes"
+    },
+    "meta_time": {
+      "id": "meta_time"
+    },
+    "meta_date": {
+      "id": "meta_date"
+    },
+    "meta_place": {
+      "id": "meta_place"
+    },
+    "meta_look": {
+      "id": "meta_look"
+    },
+    "stat_love": {
+      "id": "stat_love"
+    },
+    "stat_heat": {
+      "id": "stat_heat"
+    },
+    "pinned": {
+      "id": "pinned"
+    },
+    "sync_delay": {
+      "id": "sync_delay"
+    },
+    "sync_reset": {
+      "id": "sync_reset"
+    },
+    "sync_rush": {
+      "id": "sync_rush"
+    },
+    "search": {
+      "id": "search"
+    },
+    "clear": {
+      "id": "clear"
+    },
+    "player_prev": {
+      "id": "player_prev"
+    },
+    "player_play": {
+      "id": "player_play"
+    },
+    "player_pause": {
+      "id": "player_pause"
+    },
+    "player_next": {
+      "id": "player_next"
+    },
+    "track_playing": {
+      "id": "track_playing"
+    }
+  }
+}
