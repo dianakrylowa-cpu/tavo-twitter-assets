@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+<g id="tab_music" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M10 6v10.5"/>
+  <path d="M10 6l7-1.5v9.5"/>
+  <circle cx="8" cy="18" r="2.2"/>
+  <circle cx="17" cy="16.5" r="2.2"/>
+</g>
+</svg>
